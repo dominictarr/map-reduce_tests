@@ -1,0 +1,14 @@
+{ "name": "map-reduce_tests"
+, "version": "0.0.0"
+, "description": ""
+, "homepage": "http://github.com/dominictarr/map-reduce_tests"
+, "repository": 
+  { "type": "git"
+  , "url": "https://github.com/dominictarr/map-reduce_tests.git" }
+, "dependencies": {
+    "it-is": "1"
+  , "map-reduce": "*"
+  }
+, "devDependencies": {}
+, "author": "Dominic Tarr <dominic.tarr@gmail.com> (http://bit.ly/dominictarr)"
+, "scripts": { "test": "meta-test test/*.js" } }
